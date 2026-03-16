@@ -1,8 +1,13 @@
-### Hi, I'm Eric Julià 😊
+👋 ¡Hola! Soy un ingeniero técnico con 15 años de experiencia en consultoría, apasionado por infraestructura, automatización y DevOps.
 
-### This is my personal GitHub where you can find some pieces of code 🐍
+🛠️ Aquí encontrarás proyectos y scripts que reflejan mi aprendizaje y experimentos:
+	•	🐍 Scripts en Python – pequeñas herramientas y automatizaciones
+	•	📦 Docker – contenedores y entornos reproducibles
+	•	☸️ Kubernetes – despliegue y orquestación de servicios
+	•	🏗️ Terraform – infraestructura como código
+	•	🤖 Ansible – automatización de tareas y configuraciones
+	•	🔧 Otros experimentos y proyectos técnicos que voy creando
 
-### 🥰 Thanks for visit 🥰
+🚀 Siempre explorando nuevas tecnologías y mejorando procesos. La idea es aprender y demostrar capacidad real para construir y automatizar sistemas.
 
-![image](https://github.com/erju-dev/erju-dev/assets/59866781/6c1a4f0e-fe5b-4907-8c85-d6f1377c39f7)
-
+📫 ¡Conéctate conmigo o haz pull requests si tienes sugerencias!
